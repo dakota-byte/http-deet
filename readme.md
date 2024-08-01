@@ -1,3 +1,5 @@
+the name deet is a reference to a homework assignment (this project is not that assignment)
+
 ### Network Infrastructure Demo
 
 This repo is two things:
