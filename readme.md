@@ -1,3 +1,5 @@
+**NOTE**: THIS PROJECT USES MY OTHER [PROJECT](https://github.com/dakota-byte/http-server) !!!
+
 the name deet is a reference to a homework assignment (this project is not that assignment)
 
 ### Network Infrastructure Demo
